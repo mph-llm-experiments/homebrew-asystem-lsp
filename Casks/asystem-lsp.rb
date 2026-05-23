@@ -1,6 +1,6 @@
 cask "asystem-lsp" do
-  version "0.2.1"
-  sha256 "c1147790a77d4503cf00120e998c20dd457e3446f561c9884e2e131e5a853217"
+  version "0.2.3"
+  sha256 "7b07c5eb9d7fd1678714fa92cb4b54fdd918229cc2933453b12fb31559258b56"
 
   url "https://dist.puddingtime.net/asystem-lsp/v#{version}/asystem-lsp_#{version}_aarch64.tar.gz"
   name "asystem-lsp"
